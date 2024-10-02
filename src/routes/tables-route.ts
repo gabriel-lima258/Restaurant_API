@@ -6,4 +6,4 @@ const tableController = new TableController()
 
 tablesRoutes.get('/', tableController.index)
 
-export { tablesRoutes}
+export { tablesRoutes }
